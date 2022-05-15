@@ -21,7 +21,8 @@ for file in os.listdir():
 
 #open file
 # for line
-# recognize if core datum, on_mob_life, overdose_process, on_transfer
+# recognize if core datum, on_mob_life, overdose_process by ending line with )
 # write datum line as ID to list
-# write
+# read contents until next datum line
+# pick out name, description, ph, bruteloss
 # end for when newline without whitespace at start
