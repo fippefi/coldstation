@@ -1,5 +1,7 @@
 ###Files and folders specified here will never be tracked.
 
+/_sandbox_ignore/*
+
 #Ignore everything in datafolder and subdirectories
 /data/**/*
 /tmp/**/*
